@@ -114,7 +114,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <ueab:WriteCellX Cell="[Excel.Sheet(&quot;Sheet1&quot;).Cell(&quot;A2&quot;)]" DisplayName="Write Cell" sap:VirtualizedContainerService.HintSize="434,187.33333333333334" sap2010:WorkflowViewState.IdRef="WriteCellX_1" Value="[&quot;Alan Edited&quot;]" />
+            <ueab:WriteCellX Cell="[Excel.Sheet(&quot;Sheet1&quot;).Cell(&quot;A2&quot;)]" DisplayName="Write Cell" sap:VirtualizedContainerService.HintSize="434,187.33333333333334" sap2010:WorkflowViewState.IdRef="WriteCellX_1" Value="[&quot;Alan Edited- 2&quot;]" />
           </Sequence>
         </ActivityAction>
       </ueab:ExcelApplicationCard.Body>
